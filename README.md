@@ -1,1 +1,2 @@
 # IR-Models
+Given twitter data in three languages - English, German and Russian, indexed the given twitter data using Solr and implement the following three IR models: (i) Language Model, (ii) BM25 and (iii) Divergence from Randomness (DFR) Model. The results from these three sets is evaluated using the Trec_eval program. Based on the evaluation results, improved the performance in terms of Mean Average Precision (MAP).
